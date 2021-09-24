@@ -22,9 +22,9 @@
     "url": "https://www.3dcelo.com",
     "icon": "https://favicons.githubusercontent.com/www.3dcelo.com",
     "slug": "3-dcelo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 820,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-24": 0
+    }
   },
   {
     "name": "Duchesse",
