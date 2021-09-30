@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 395,
-    "timeWeek": 295,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "time": 369,
+    "timeDay": 434,
+    "timeWeek": 334,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.3dcelo.com",
     "slug": "3-dcelo",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 957,
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 964,
     "timeDay": 1074,
-    "timeWeek": 1055,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "timeWeek": 1079,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2021-09-24": 84
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 1085,
-    "timeWeek": 1052,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "time": 962,
+    "timeDay": 1034,
+    "timeWeek": 1071,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {}
   }
 ]
