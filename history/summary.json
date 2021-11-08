@@ -4,7 +4,7 @@
     "url": "https://dento.3dcelo.com/#/",
     "icon": "https://favicons.githubusercontent.com/dento.3dcelo.com",
     "slug": "dento",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 378,
     "timeMonth": 429,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-08": 0
+    }
   },
   {
     "name": "3Dcelo",
