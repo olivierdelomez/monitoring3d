@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/dento.3dcelo.com",
     "slug": "dento",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 412,
-    "timeDay": 561,
-    "timeWeek": 392,
-    "timeMonth": 431,
-    "timeYear": 412,
-    "dailyMinutesDown": {
-      "2021-11-08": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 413,
+    "timeDay": 471,
+    "timeWeek": 391,
+    "timeMonth": 439,
+    "timeYear": 413,
+    "dailyMinutesDown": {}
   },
   {
     "name": "3Dcelo",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 953,
-    "timeDay": 472,
-    "timeWeek": 1028,
-    "timeMonth": 939,
-    "timeYear": 953,
+    "time": 957,
+    "timeDay": 1132,
+    "timeWeek": 1031,
+    "timeMonth": 940,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2021-09-24": 84
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 581,
-    "timeWeek": 944,
-    "timeMonth": 904,
-    "timeYear": 915,
+    "time": 918,
+    "timeDay": 1078,
+    "timeWeek": 949,
+    "timeMonth": 906,
+    "timeYear": 918,
     "dailyMinutesDown": {}
   }
 ]
